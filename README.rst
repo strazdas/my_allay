@@ -1,6 +1,9 @@
 Apie
 ====
 Įrenginys matuos dirvos drėgmę ir esant poreikiui įpumpuos vandens į dirvą.
+`Darbų ir minčių planas <http://xn--h-wha.lt/my_allay>`_.
+
+
 
 Įrenginio sudedamosios dalys: drėgmės matuoklis, pompa, valdiklis (arduino).
 Pagalbinės dalys: įtampos keitiklis (12V + 3.5-5V), žarnelės, sandarus butelis.
